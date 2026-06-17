@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Agrinho - Início</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>🌱 Projeto Agrinho</h1>
+
+  <nav>
+    <a href="index.html">Início</a>
+    <a href="sobre.html">Sobre</a>
+    <a href="projetos.html">Projetos</a>
+    <a href="contato.html">Contato</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h2>Educação que transforma o campo e a cidade</h2>
+  <p>O Agrinho promove conhecimento, cidadania e sustentabilidade.</p>
+</section>
+
+<section class="cards">
+  <div class="card">
+    <h3>🌎 Meio Ambiente</h3>
+    <p>Consciência ecológica e preservação da natureza.</p>
+  </div>
+
+  <div class="card">
+    <h3>📚 Educação</h3>
+    <p>Aprendizado conectado com a realidade.</p>
+  </div>
+
+  <div class="card">
+    <h3>🤝 Cidadania</h3>
+    <p>Formação de cidadãos responsáveis.</p>
+  </div>
+</section>
+
+<footer>
+  <p>Feito para o Projeto Agrinho 💚</p>
+</footer>
+
+</body>
+</html>
