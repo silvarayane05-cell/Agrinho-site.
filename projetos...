@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Projetos Agrinho</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Projetos 🌱</h1>
+  <nav>
+    <a href="index.html">Início</a>
+    <a href="sobre.html">Sobre</a>
+    <a href="projetos.html">Projetos</a>
+    <a href="contato.html">Contato</a>
+  </nav>
+</header>
+
+<section>
+  <h2>Exemplos de projetos</h2>
+
+  <ul>
+    <li>Horta escolar sustentável</li>
+    <li>Reciclagem de lixo na comunidade</li>
+    <li>Campanhas de preservação da água</li>
+    <li>Educação alimentar saudável</li>
+  </ul>
+</section>
+
+<footer>
+  <p>Feito com dedicação 💚</p>
+</footer>
+
+</body>
+</html>
