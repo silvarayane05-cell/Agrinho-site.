@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Sobre o Agrinho</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Sobre o Agrinho 🌱</h1>
+  <nav>
+    <a href="index.html">Início</a>
+    <a href="sobre.html">Sobre</a>
+    <a href="projetos.html">Projetos</a>
+    <a href="contato.html">Contato</a>
+  </nav>
+</header>
+
+<section>
+  <h2>O que é?</h2>
+  <p>
+    O Programa Agrinho é uma iniciativa educacional que incentiva alunos a aprender sobre
+    meio ambiente, saúde, cidadania e sustentabilidade.
+  </p>
+
+  <h2>Importância</h2>
+  <p>
+    Ele conecta o campo e a cidade, mostrando como ambos dependem um do outro.
+  </p>
+</section>
+
+<footer>
+  <p>Projeto Agrinho 💚</p>
+</footer>
+
+</body>
+</html>
